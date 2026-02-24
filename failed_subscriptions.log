@@ -1356,3 +1356,38 @@ https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/yudou66.txt	request_failed
 https://github.com/mermeroo/telegram-configs-collector/raw/main/protocols/hysteria	http_404
 https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/ss	http_404
+
+=== 2026-02-25 04:48:59 - 失效订阅 (27 个) ===
+https://www.applnn.com/236.html	http_403
+https://www.applnn.com/26933.html	http_403
+https://www.applnn.com/46432.html	http_403
+https://s1.byte77.com/api/v1/client/subscribe?token=ce8bef8c67c46cee338654c46945cc81	http_403
+https://ss88.beifengyuns.top/s/3745bf0f083b2c1a7d037dcbef2b28b8	http_403
+https://www.yfjc.xyz/api/v1/client/subscribe?token=43637982a362bb62df71b4d6da763751	http_403
+https://v2rayse.com/fs/public/20260221/5i5gttb.json	request_failed
+https://v2rayse.com/fs/public/20260218/gbu98e8.yaml	request_failed
+https://v2rayse.com/fs/public/20260218/ljb3jai.yaml	request_failed
+https://v2rayse.com/fs/public/20260224/i0v6k9w.yaml	request_failed
+https://v2rayse.com/fs/public/20260217/emtmq6t.json	request_failed
+https://v2rayse.com/fs/public/20260223/782udpj.txt	request_failed
+https://v2rayse.com/fs/public/20260224/85msxgs.yaml	request_failed
+https://v2rayse.com/fs/public/20260223/t6uzmuz.yaml	request_failed
+http://205.209.118.30:3138/#%F0%9F%A5%BE15%40oneclickvpnkeys	http_400
+http://202.152.44.19:8081/#%F0%9F%A5%BE37%40oneclickvpnkeys	http_403
+http://18.229.201.117:3128/#%F0%9F%A5%BE50%40oneclickvpnkeys	http_400
+http://160.19.18.241:3125/#%F0%9F%A5%BE42%40oneclickvpnkeys	request_failed
+http://165.227.5.10:8888/#%F0%9F%A5%BE24%40oneclickvpnkeys	http_503
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28SUi=h	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28Q%28N=%21	request_failed
+http://176.113.209.197:8080/#%F0%9F%A5%BE10%40oneclickvpnkeys	request_failed
+http://34.50.41.78:8888/#%F0%9F%A5%BE57%40oneclickvpnkeys	request_failed
+https://mrwdfNTD8M79LCukCieldrqZWqs%3D:exaxgqkKkd0TAMrCxeonWg%3D%3D@twmoon1-cdn-route.couldflare-cdn.com:1443/?sni=twmoon1-cdn-route.couldflare-cdn.com#%F0%9F%A5%BE53%40oneclickvpnkeys	request_failed
+http://190.242.157.215:8080/#%F0%9F%A5%BE41%40oneclickvpnkeys	request_failed
+https://raw.githubusercontent.com/ssrsub/ssr/master/trojan	http_404
+https://my.ishadowx.biz	request_failed
+
+=== 2026-02-25 04:49:25 - 失效订阅 (4 个) ===
+https://us1.zhuk.dpdns.org/202601/cv12/015/c.yaml	http_404
+https://jue.zhujue.uk/api/zhujue/dbc2aa1ca8c6d1e24e288bab4b18215d	http_403
+http://66.42.50.118:12580/clash/proxies	download_failed
+https://us1.zhuk.dpdns.org/202601/cv12/015/v.txt	http_404

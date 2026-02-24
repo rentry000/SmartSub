@@ -1,7 +1,7 @@
 clash订阅:
-- http://66.42.50.118:12580/clash/proxies
 - https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/clash.yaml
 - https://chaoxie.351264.xyz/c/SkylineConnectJP
+- https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
 - https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
 - https://git.io/emzclash
 - https://proxypool.dmit.dpdns.org/clash/proxies
@@ -14,6 +14,7 @@ clash订阅:
 - https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/ndnode.yaml
 - https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
 - https://raw.githubusercontent.com/Junely/clash/main/template3.yaml
+- https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
 - https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/all.yaml
 - https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml
 - https://raw.githubusercontent.com/YasserDivaR/pr0xy/main/winformClash.yaml
@@ -45,13 +46,11 @@ clash订阅:
 - https://raw.githubusercontent.com/ts-sf/fly/main/clash
 - https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 - https://rss.zyfx6.xyz/clash/
-- https://us1.zhuk.dpdns.org/202601/cv12/015/c.yaml
 - https://vess.zhuk.dpdns.org/2026/017/c.yaml
 - https://vess.zhuk.dpdns.org/2026/0216/c.yaml
 - https://vess.zhuk.dpdns.org/2026/0223/c.yaml
 - https://vess.zhuk.dpdns.org/2026/0608/c.yaml
 - https://vess.zhuk.dpdns.org/2026/109/c.yaml
-- https://x.juzi.lat/view.php?id=a2303e33ef8711be
 - https://x.juzi.lat/view.php?id=b15ff9ae32204377
 - https://x.v50.lat/view.php?id=168ed3ecb0242141
 - https://x.v50.lat/view.php?id=813ececc95a43cf7
@@ -61,6 +60,7 @@ clash订阅:
 v2订阅:
 - https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=214446242263d12cda87486c8ca350c3
 - https://9527521.xyz/pubconfig/YCw0l6R3PoDbGFq5
+- https://apt.dyljstar.sbs/api/v1/client/subscribe?token=a030644345fe01becc042b352e1b2d7e
 - https://bao.yuanbaojc.site/api/yuanbaojc/7ab058ab245c9e7e50c17ec076a4451b
 - https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/proxy.md
 - https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/ss.md
@@ -68,6 +68,7 @@ v2订阅:
 - https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/vmess.md
 - https://cf.iranhope.org/sub/pub_jnir_azadi_2/d1d286e1f01e8c6b9f911e28921be8cc
 - https://cf.usb.200456.xyz/sub?token=testv200ddbot
+- https://dash.knjc.cfd/api/v1/client/subscribe?token=8c1e4ed7de047bb19f4af4e77acdfbad
 - https://dash.sjakd.store/s/cdb39334e4f0c9a7dd6f28ecdbc03ee7
 - https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=eeb0dcd3ad557c8b7a4e70562017ba46
 - https://fforever.github.io/v2rayfree
@@ -93,12 +94,12 @@ v2订阅:
 - https://jc10a1.lada.mom/s/fc4ceea59d5bbc70329ca96fd0387a1c
 - https://jiang.netlify.app
 - https://jkun.waimaosass.icu/api/v1/client/subscribe?token=1581a57b8d296ce2867cd85d637c606d
-- https://jue.zhujue.uk/api/zhujue/dbc2aa1ca8c6d1e24e288bab4b18215d
 - https://kad520.kad520.uk/api/kad520s/bdb3c60797f9291ef3ee138fdd3195f2
 - https://ldld.whtjdasha.com/api/v1/client/subscribe?token=6b69e6bc9bc793ea90db235e89a649d5
 - https://mojie.app/api/v1/client/subscribe?token=6dbf0b92279e3ca9448b883496d8870f
 - https://msk.vless-balancer.ru/sub/dXNlcl82Nzg4MzMxMjQ5LDE3Njk1MzUzMTkBqGm3A1STd#Subscription
 - https://onlysub.mjurl.com/api/v1/client/subscribe?token=6dbf0b92279e3ca9448b883496d8870f
+- https://pwac.gzi8998-ddns0721.eu/api/v1/gzcloud/subscribe?token=7c5674138d7cedccb09ddd77ec7883aa
 - https://qybndbviblvt.us-west-1.clawcloudrun.com/api/v1/subscribe?token=u0bt57u81cui26g1vc
 - https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/HighSpeed.txt
 - https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet_iOS.txt
@@ -157,8 +158,8 @@ v2订阅:
 - https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
 - https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link
 - https://raw.githubusercontent.com/zhlx2835/freefq/main/v2
+- https://raw.githubusercontent.com/zjfb/SubCrawler/main/sub/share/all
 - https://raw.githubusercontent.com/zjr13808836946/zjr_clash/main/V2_SSR_M
-- https://sany0116.jullianna.workers.dev/auto?b64
 - https://study.small1999.sbs/study/xuexi/v999/hneko?token=7d0bfb75f363e28262e863e2625354e6
 - https://sub.scpnb.top/base64
 - https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
@@ -177,7 +178,7 @@ v2订阅:
 - https://subscribe001.ggff.net/subscribe/d7e5024de12bc7a18b12168a2b15a92c
 - https://subscribe001.ggff.net/subscribe/e408a2d6db84d69fff7cfbf8822f7fbf
 - https://subscribe002.awsy.top/subscribego/65c6b8839c2bab8db2310b39dc200b01
-- https://us1.zhuk.dpdns.org/202601/cv12/015/v.txt
+- https://subscribe003.awsy.top/subscribego/103e55518510ee873039dd98ee3ff8d0
 - https://uuuuid.xem.lat/xemsub/64e580317a07548ceee29cf6653d772f
 - https://uuuuid.xem.lat/xemsub/925b55143d94ed09d4abc0b2e30c9943
 - https://vess.zhuk.dpdns.org/2026/017/v.txt
@@ -188,7 +189,6 @@ v2订阅:
 - https://www.Gboard.surf:2087/sub/emFhcjFfNjk3NTgzMCwxNzcxNDU2NTQxyLdMmd5dc6
 - https://www.djjc.cfd/api/v1/client/subscribe?token=d3c44ec80b52bfb55fb5acf523096be5
 - https://www.xrayvip.com/free.txt
-- https://www.yfjc.xyz/api/v1/client/subscribe?token=43637982a362bb62df71b4d6da763751
 - https://x1.332244.icu/api/v1/client/subscribe?token=e061d9a8483d5d0faa693dac55d589d4&amp;flag=meta
 - https://xdyew.lobonet.cn/mdet/wdfs/heuy/?token=08b61ce53cbe5f201bea4607c6674398
 - https://xdyew.lobonet.cn/mdet/wdfs/heuy/?token=26786f6bda8391844404caa4619191fc
@@ -208,17 +208,15 @@ v2订阅:
 - https://yuan.yuanbaojc.site/api/yuanbaojc/b86e8345ed2dad867fe34d41f0ac0d7a
 开心玩耍:
 - 可用流量:100.0 GB                    https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
-- 可用流量:132.31 GB                    https://www.Gboard.surf:2087/sub/emFhcjFfNjk3NTgzMCwxNzcxNDU2NTQxyLdMmd5dc6
-- 可用流量:1516.43 GB                    https://ys.jiedianxielou.workers.dev:443
-- 可用流量:4673.92 GB                    https://cf.iranhope.org/sub/pub_jnir_azadi_2/d1d286e1f01e8c6b9f911e28921be8cc
+- 可用流量:4560.45 GB                    https://cf.iranhope.org/sub/pub_jnir_azadi_2/d1d286e1f01e8c6b9f911e28921be8cc
+- 可用流量:572.22 GB                    https://ys.jiedianxielou.workers.dev:443
 - 可用流量:666.0 GB                    https://rss.zyfx6.xyz/clash/
-- 可用流量:8589934499.07 GB                    https://qybndbviblvt.us-west-1.clawcloudrun.com/api/v1/subscribe?token=u0bt57u81cui26g1vc
+- 可用流量:8589934500.69 GB                    https://qybndbviblvt.us-west-1.clawcloudrun.com/api/v1/subscribe?token=u0bt57u81cui26g1vc
 - 可用流量:961089.12 GB                    https://www.xrayvip.com/free.txt
 机场订阅:
 - https://cf.iranhope.org/sub/pub_jnir_azadi_2/d1d286e1f01e8c6b9f911e28921be8cc
 - https://qybndbviblvt.us-west-1.clawcloudrun.com/api/v1/subscribe?token=u0bt57u81cui26g1vc
 - https://rss.zyfx6.xyz/clash/
 - https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
-- https://www.Gboard.surf:2087/sub/emFhcjFfNjk3NTgzMCwxNzcxNDU2NTQxyLdMmd5dc6
 - https://www.xrayvip.com/free.txt
 - https://ys.jiedianxielou.workers.dev:443
