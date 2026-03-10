@@ -1953,3 +1953,9 @@ http://myket.ir/	request_failed
 
 === 2026-03-10 22:33:35 - 失效订阅 (1 个) ===
 https://platform.djjc.cfd/api/v1/client/subscribe?token=7b7beb3a13f6aac12987c68d8bc36692	http_403
+
+=== 2026-03-10 22:52:58 - 失效订阅 (4 个) ===
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21jrG1=D	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%2Atip-=	request_failed
+https://opengraph.githubassets.com/b77c6c626098e594150beeeaf99b811f6f0e2632c9bb5f3cfc96d47f865b56b7/ermaozi/get_subscribe	http_429
+https://github.com/free18/v2ray/blob/5adfd6c5/vpn.md	http_429
