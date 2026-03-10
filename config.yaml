@@ -222,7 +222,7 @@ quality_filter:
   max_test_nodes: 5000         # 最多测试节点数
   max_output_nodes: 150        # 输出150个精选节点
   min_guarantee: 150           # 保底150个节点
-  preferred_protocols_only: false  # 测试所有协议
+  preferred_protocols_only: true  # 测试所有协议
   smart_sampling: true         # 智能采样
 
   # 区域限制 (Region Limit) - 改为降分模式，不直接丢弃
