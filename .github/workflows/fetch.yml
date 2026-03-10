@@ -18,7 +18,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # 防止执行时间过长（30分钟超时）
+    timeout-minutes: 360  # 防止执行时间过长（30分钟超时）
     steps:
 
     - name: 迁出代码
@@ -55,6 +55,7 @@ jobs:
     - name: 配置自检
       run: |
         python scripts/self_check.py || echo "⚠️ self_check 提示警告"
+        python scripts/clean_sources.py
 
     - name: 验证 Secrets 配置
       env:
@@ -178,7 +179,7 @@ jobs:
     - name: Run Quality Filter & Push to Telegram
       # 只在有节点文件时才运行筛选
       if: success() || failure()  # 即使main.py失败也尝试筛选
-      timeout-minutes: 20  # 单步超时限制（防止IP检测或测试过多导致超时）
+      timeout-minutes: 180  # 单步超时限制（防止IP检测或测试过多导致超时）
       env:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -203,6 +204,72 @@ jobs:
         else
           echo "⚠️ 未发现节点文件，跳过筛选"
         fi
+    - name: Generate Full sing-box Subscription
+      if: success() || failure()
+      run: |
+        python - <<EOF
+        import json, base64, os
+        from scripts.generate_singbox_config import build_outbound
+
+        input_file = 'sub/high_quality_nodes.txt'
+        output_file = 'sub/singbox_subscribe.json'
+
+        if not os.path.exists(input_file):
+            print("❌ No high quality nodes found.")
+            exit(0)
+
+        with open(input_file, 'r') as f:
+            content = f.read().strip()
+        
+        # 尝试 Base64 解码，如果失败则按行读取
+        try:
+            decoded = base64.b64decode(content).decode('utf-8')
+            urls = [u.strip() for u in decoded.split('\n') if u.strip()]
+        except:
+            urls = [u.strip() for u in content.split('\n') if u.strip()]
+
+        outbounds = []
+        tags = []
+        
+        for i, url in enumerate(urls):
+            try:
+                outbound = build_outbound(url)
+                # 给节点起个名字，如果有别名用别名，没有就用序号
+                tag = f"Node-{i+1}"
+                if '#' in url:
+                    from urllib.parse import unquote
+                    tag = unquote(url.split('#')[1])
+                
+                outbound['tag'] = tag
+                outbounds.append(outbound)
+                tags.append(tag)
+            except Exception as e:
+                print(f"⚠️ Skip invalid URL: {e}")
+
+        # 构建标准的 sing-box 配置格式
+        config = {
+            "log": {"level": "info"},
+            "outbounds": [
+                {
+                    "type": "selector",
+                    "tag": "Proxy",
+                    "outbounds": tags + ["direct"]
+                },
+                *outbounds,
+                {"type": "direct", "tag": "direct"},
+                {"type": "dns", "tag": "dns-out"}
+            ],
+            "route": {
+                "rules": [{"outbound": "Proxy"}],
+                "final": "Proxy"
+            }
+        }
+
+        os.makedirs('sub', exist_ok=True)
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(config, f, indent=2, ensure_ascii=False)
+        print(f"✅ Generated sing-box subscription with {len(outbounds)} nodes at {output_file}")
+        EOF
 
     - name: Commit
       run: |
@@ -220,7 +287,7 @@ jobs:
           echo "📝 没有文件变更，跳过提交"
         else
           git commit -m "🍀 爬取订阅源 $(date '+%Y-%m-%d %H:%M:%S')"
-
+          git add sub/singbox_subscribe.json
           # 捕获任何在 commit 后生成的文件变更
           git add ./sub || true
           git add ./collected_nodes.txt || true
