@@ -2043,3 +2043,18 @@ https://x.v50.lat/view.php?id=9e3abbb036b8a61b	request_failed
 https://x.v50.lat/view.php?id=d2f3d9f4bdb70227	request_failed
 https://down.novatrixlabs.xyz/static/version/?token=6b817a8d76ac063348a37b4da40ed83b	http_404
 https://x.v50.lat/view.php?id=585ddbded55dc1e0	request_failed
+
+=== 2026-03-14 04:32:31 - 失效订阅 (10 个) ===
+https://www.applnn.com/46602.html	http_403
+https://www.applnn.com/39607.html	http_403
+https://www.applnn.com/46650.html	http_403
+https://www.applnn.com/224.html	http_403
+http://aparat.com/	http_504
+https://home.liukun.com:8443/Projects/Aggregator/api/subscribe?clash=1	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?-U=mnnvIvv4vdddmv4ddvn	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28pGt=	request_failed
+https://github.com/free18/v2ray/blob/5adfd6c5/README.md#L3-L7	http_429
+http://g2-de2-hz.a1mshop2.xyz/	request_failed
+
+=== 2026-03-14 04:32:55 - 失效订阅 (1 个) ===
+https://apt.dyljstar.sbs/api/v1/client/subscribe?token=a030644345fe01becc042b352e1b2d7e	http_403
