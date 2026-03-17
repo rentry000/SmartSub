@@ -2249,3 +2249,43 @@ https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=9d08a3ec6d1545e46a06
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=0317efa61070761545d7f4c909ffdff5	http_403
 https://vess.zhuk.dpdns.org/2026/0223/v.txt	http_404
 https://dash.sjakd.store/s/cdb39334e4f0c9a7dd6f28ecdbc03ee7	request_failed
+
+=== 2026-03-18 04:38:19 - 失效订阅 (28 个) ===
+https://sep.bbdmfetch.com/api/v1/client/subscribe?token=c5e103999712643f8136783d0a52d8e2	http_403
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=6835b09aa18a76f248983bf78500226d	http_403
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=8151cde0eb62112f619096f2748f1755	http_403
+https://www.52pojie.cn/thread-1998547-1-1.html	http_403
+http://1.1.1.1/	http_404
+http://185.208.77.178/	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%210erBh=t6U%214	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21xu4=p	request_failed
+http://cinema-tika.com/	request_failed
+http://185.24.253.8/	request_failed
+http://193.84.255.67/	request_failed
+http://87.248.130.22/	request_failed
+http://37.202.225.135/	request_failed
+http://94.183.124.45/	request_failed
+http://37.202.225.137/	request_failed
+http://94.183.126.175/	request_failed
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks	http_404
+http://93.126.25.10/	request_failed
+http://37.202.229.103:53/	request_failed
+http://93.118.114.23/	request_failed
+http://46.100.94.168:53/	request_failed
+http://178.173.134.237/	request_failed
+http://46.100.94.168/	request_failed
+http://185.208.77.178:53/	request_failed
+http://37.202.229.103/	request_failed
+http://93.126.25.10:53/	request_failed
+http://93.118.114.23:53/	request_failed
+http://94.101.130.239/	request_failed
+
+=== 2026-03-18 04:38:43 - 失效订阅 (8 个) ===
+https://4ee71186-8848-4a2e-ade4-a4d5dbee7bd7.anrunsub.top/anrun/82850997b7a321024f72c50030d87855	http_403
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=c9ca2c097fded301ac6b0b3c1fbe5097	http_403
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=9ba2dcf016dbee9130673ee6ed7e334f	http_403
+https://study.small1999.sbs/study/xuexi/v999/hneko?token=1dc7a802e70cfa93858e2fd6fe20aef6	http_502
+https://study.small1999.sbs/study/xuexi/v999/hneko?token=7d0bfb75f363e28262e863e2625354e6	http_502
+https://steel68.qjty.buzz/api/v2/user/token/949a9f99a4d8b4a7432ae040d5b8955d	request_failed
+https://scurl.izenny.com/api/v1/client/subscribe?token=a1cd8828690a4cbb90bcf5819df5b39d	request_failed
+https://scurl.izenny.com/api/v1/client/subscribe?token=6e7886ee2e2c1d5a2b6db3bdb274ddf5	request_failed
