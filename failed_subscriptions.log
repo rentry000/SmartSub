@@ -2363,3 +2363,28 @@ https://jc10a1.lada.mom/s/5733852d43ed14f08635528bbc6d0c83	http_403
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=a9e5122ca236ffb648f962d75d4eb329	http_403
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=faf07a302afe64b3ee925b496402cf90	http_403
 https://webget.yfjc.xyz/api/v1/client/subscribe?token=7bc421822593b05a9ced533fd5ce601f	http_403
+
+=== 2026-03-22 04:24:57 - 失效订阅 (20 个) ===
+http://chatgpt.com/codex/students	http_403
+https://chatgpt.com/codex/students/	http_403
+https://cf3.6881004.xyz/api/v1/client/subscribe?token=23c0f747b3b216625ba87fb17f1b10bd	http_403
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=30477ee689df119888868accd861ce85	http_403
+https://api.qhrgo.sbs/api/subscribe?token=cf10db9410a4cd9ae847f4b24aabe01b	http_500
+http://bcmoviez.com/	http_415
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%29JDbN=Fsdmh.Tdn%3AoF1nl.%7CvKFd%3Ag437%29I7I%2987IP%2A	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28%29=GFFQGxQHHxx66GH6jBH	request_failed
+https://eck8.miemie.uk/#/register	request_failed
+https://github.com/free18/v2ray/blob/5adfd6c5/README.md#L37-L48	http_429
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/mix.txt	http_404
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/trojan	http_404
+https://raw.githubusercontent.com/rxsweet/proxies/main/sub/srx.yaml	http_404
+https://guardnet.ir/f/fdb15348173d	request_failed
+http://guardnet.ir/f/402434cc81f6	request_failed
+http://37.202.225.135:53/	request_failed
+http://37.202.225.137:53/	request_failed
+http://37.202.225.156:53/	request_failed
+https://my.gov.ir	request_failed
+https://my.gov.ir/	request_failed
+
+=== 2026-03-22 04:25:19 - 失效订阅 (1 个) ===
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=debecf128148faf8f50b812a32601daf	http_403
