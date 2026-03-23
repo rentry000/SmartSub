@@ -2461,3 +2461,27 @@ https://xn--ehqa22b.site/s/d3b38b5b49953a9b5ccbe0bba8c1ac2e	request_failed
 https://xn--ehqa22b.site/s/e008737314543a631bb6425c2f4fbda5	request_failed
 https://xn--ehqa22b.site/s/f7c96415105ea613a77c78b7caf7387a	request_failed
 https://xn--ehqa22b.site/s/ebf3cb9f5a5fd6ed9c20d134c9ea6388	request_failed
+
+=== 2026-03-24 04:37:12 - 失效订阅 (15 个) ===
+https://www.applnn.com/42641.html	http_403
+https://www.applnn.com/43178.html	http_403
+https://www.applnn.com/3013.html	http_403
+https://www.applnn.com/2220.html	http_403
+https://www.applnn.com/42599.html	http_403
+https://api.wcc.best/sub?target=clash&amp;url=https%3A%2F%2F52pokemon.yunjnet.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3De7f8a9cad7fd8a8177376f26e802cd1a&amp;insert=false&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&amp;emoji=true&amp;list=false&amp;tfo=false&amp;scv=true&amp;fdn=false&amp;expand=true&amp;sort=false&amp;new_name=true	http_403
+https://f-sub.xn--8pr28c250c1edz9a.xn--fiqs8s/api/v1/client/subscribe?token=98f1c25669bf57683c89cc4821c3cd4a	request_failed
+https://carrot.kuaitucloud.top/ktc/428/ck/b704710cbd1199319535aef081856bd7	http_403
+https://carrot.kuaitucloud.top/ktc/428/ck/146f9fcaaf015134504cd010ebeef601	http_403
+https://sub.xnyun.wiki/xxntoken=/e178018494f3b4a35b50e36619086a71	http_403
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28AxZ%285=i11L%29%3A%2F%2F0A%285wI-5_P7ldW	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?0ssPn=Z	request_failed
+http://49.233.252.141:33666/s/7f5a1fd2e42ddadc30c82420241ef0b1	request_failed
+http://guardnet.ir/f/513751ac3151	request_failed
+http://guardnet.ir/f/fbe260a336ff	request_failed
+
+=== 2026-03-24 04:37:35 - 失效订阅 (5 个) ===
+https://api.nekocloud.top/api/v1/nekocloud/5673d55eac3a35265e477e6a3a717468	http_403
+https://carrot.kuaitucloud.top/ktc/428/ck/d78c0ccb0e7a699b3b56820206a2bf16	http_403
+https://carrot.kuaitucloud.top/ktc/428/ck/1453c4838bcb6d9c0eadc915457176bf	http_403
+https://carrot.kuaitucloud.top/ktc/428/ck/ed07f27a9f4895560ff920a50072978f	http_403
+https://sub.flashcat.online/s/f38847e664610ccc0b1b70a2e58ec033	http_403
