@@ -2498,3 +2498,31 @@ http://guardnet.ir/f/9315216ac21b	request_failed
 
 === 2026-03-25 04:40:54 - 失效订阅 (1 个) ===
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=67eee7e71d16ac474b4c5d7d8dacf209	http_403
+
+=== 2026-03-26 04:37:44 - 失效订阅 (23 个) ===
+https://gi	request_failed
+https://www.gjufbg.cn/?ch=108145	request_failed
+https://v2rayse.com/fs/public/20260321/mco1ymv.txt	request_failed
+https://v2rayse.com/fs/public/20260317/171vkxh.yaml	request_failed
+http://%E2%AD%90%EF%B8%8F%E8%B5%84%E6%BA%90%E4%BB%8B%E7%BB%8D%EF%BC%9ADataTool.vip/	request_failed
+https://www.applnn.com/42240.html	http_403
+https://www.applnn.com/42519.html	http_403
+https://www.applnn.com/42660.html	http_403
+https://www.applnn.com/46648.html	http_403
+https://www.applnn.com/46736.html	http_403
+https://subscribe-3-emo.xxmad.com/s/ad07cb5bc654d533085cb027467b22df	http_403
+https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=da9b3e5e8eb32d34e258275d38b6fc24	http_403
+https://pbs.twimg.com/media/HEROYoaWEAA7ze2?format=jpg&amp;name=medium	http_404
+https://pbs.twimg.com/media/HEROYoaWEAA7ze2?format=jpg&amp;amp;name=medium	http_404
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%29%29=mf	request_failed
+https://wdnmd123.live	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%2A0K0=	request_failed
+https://wdnmd123.live/	request_failed
+https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9/	request_failed
+https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9/#default	request_failed
+https://paste.c-net.org/CampsPunched	request_failed
+http://guardnet.ir/f/042d609df543	request_failed
+http://guardnet.ir/f/01bf736e897c	request_failed
+
+=== 2026-03-26 04:38:08 - 失效订阅 (1 个) ===
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d3482519768d4a2bc602550ad87619fc	request_failed
