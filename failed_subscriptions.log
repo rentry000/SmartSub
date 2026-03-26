@@ -2526,3 +2526,28 @@ http://guardnet.ir/f/01bf736e897c	request_failed
 
 === 2026-03-26 04:38:08 - 失效订阅 (1 个) ===
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d3482519768d4a2bc602550ad87619fc	request_failed
+
+=== 2026-03-27 04:34:40 - 失效订阅 (20 个) ===
+https://kad520.uk/#/register?code=60vRVgrL	http_403
+https://www.applnn.com/39206.html	http_403
+https://www.applnn.com/42748.html	http_403
+https://www.applnn.com/44841.html	http_403
+https://www.applnn.com/39242.html	http_403
+https://www.applnn.com/8470.html	http_403
+https://www.applnn.com/42746.html	http_403
+https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=a4443a725a0e69ae9687322b12961fc1	http_404
+https://suba.f2vip.net/api/v1/client/subscribe?token=1706397b9f1bd681abd9d1c09e2b1b1e	http_403
+https://api.nekocloud.top/api/v1/nekocloud/016ddfcf8da4956b6e54f5b979c89bc7	http_403
+http://102.22.254.116/	request_failed
+https://su.gwzxwk.com/api/v1/client/subscribe?token=c2c077c5c497219a9564844bbd6395a3	http_403
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21CU~~~=	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28DA4=%28oU	request_failed
+https://github.com/free18/v2ray/blob/5adfd6c5/README.md?plain=1#L52-L62	http_429
+https://blog.yangon.club	request_failed
+https://blog.yangon.club/	request_failed
+http://guardnet.ir/f/MoradVaisi_Live_0106-1	request_failed
+http://guardnet.ir/f/e1ae5b32c469	request_failed
+http://188.92.255.225:53/	request_failed
+
+=== 2026-03-27 04:35:07 - 失效订阅 (1 个) ===
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=a2427c88aa1b3495e6b098542e4649c2	request_failed
