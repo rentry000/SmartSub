@@ -1,24 +1,18 @@
 -- play_list --
 
 
-https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 https://ys.jiedianxielou.workers.dev:443
-https://maimaiyun.qzz.io/s/7baea0a616f5301eec85f5f3b3e9bf5a
 https://www.Gboard.surf:2087/sub/emFhcjFfNjk3NTgzMCwxNzcxNDU2NTQxyLdMmd5dc6
-https://maimaiyun.qzz.io/s/7d1363db4e67a83893aafd85f1fa9120
+https://api.efanyunapi.com/clash/481015/6bauT23MCQ
 https://api.efanyunapi.com/clash/472189/S37F3UG1s9
 https://www.xrayvip.com/free.txt
-https://maimaiyun.qzz.io/s/a40bb82065f2919507b6d1b06b50e471
 
 
 -- sub_list --
 
 
 https://api.efanyunapi.com/clash/472189/S37F3UG1s9
-https://maimaiyun.qzz.io/s/7baea0a616f5301eec85f5f3b3e9bf5a
-https://maimaiyun.qzz.io/s/7d1363db4e67a83893aafd85f1fa9120
-https://maimaiyun.qzz.io/s/a40bb82065f2919507b6d1b06b50e471
-https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
+https://api.efanyunapi.com/clash/481015/6bauT23MCQ
 https://www.Gboard.surf:2087/sub/emFhcjFfNjk3NTgzMCwxNzcxNDU2NTQxyLdMmd5dc6
 https://www.xrayvip.com/free.txt
 https://ys.jiedianxielou.workers.dev:443
